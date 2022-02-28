@@ -1,0 +1,4 @@
+{
+    "ro": { "language": "limba", "hello": "buna" },
+    "en": { "language": "language", "hello": "hello" }
+}
