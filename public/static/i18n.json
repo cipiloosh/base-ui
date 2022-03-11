@@ -1,4 +1,20 @@
 {
-    "ro": { "language": "limba", "hello": "buna" },
-    "en": { "language": "language", "hello": "hello" }
+    "en": {
+        "language": "language",
+        "hello": "hello",
+        "required": "required",
+        "signIn": "Sign in",
+        "signInTitle": "Sign in to your account",
+        "signInDesc": "* if you do not have an account yet, one will be created automatically",
+        "invalidEmail": "invalid email address"
+    },
+    "ro": {
+        "language": "limba",
+        "hello": "buna",
+        "required": "obligatoriu",
+        "signIn": "Autentificare",
+        "signInTitle": "Logheaza-te in contul tau",
+        "signInDesc": "* dacă nu ai un cont, unul va fi creat automat",
+        "invalidEmail": "adresa de email invalida"
+    }
 }
